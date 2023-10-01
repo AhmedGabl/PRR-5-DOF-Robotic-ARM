@@ -1,1 +1,1 @@
-# PRR-SCARA-5-DOF-ARM
+# PRR-5-DOF-Robotic-ARM
